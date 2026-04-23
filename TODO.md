@@ -1,2 +1,0 @@
-- [ ] make pseudo-static version
-- [ ] make dynamic version
